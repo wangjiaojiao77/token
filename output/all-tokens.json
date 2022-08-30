@@ -1,0 +1,1731 @@
+[
+    {
+        "id": "062a5b23-d5c7-42ba-ab5e-2394bbb24407",
+        "createdAt": "2022-08-30T03:48:45.802Z",
+        "updatedAt": "2022-08-30T03:48:45.802Z",
+        "name": "Background/Accent/Contrast",
+        "value": {
+            "a": 1,
+            "b": 145,
+            "g": 12,
+            "r": 74
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "555:1934",
+        "sourceId": "993e46da-0f0a-440d-a027-d79b730590ba",
+        "repositoryId": "2bfa70bc-3124-4745-be75-43ea670936ae"
+    },
+    {
+        "id": "f796da5e-fc5f-4e2a-a4cf-aab4773d7fef",
+        "createdAt": "2022-08-30T03:48:45.771Z",
+        "updatedAt": "2022-08-30T03:48:45.771Z",
+        "name": "Background/Accent/Default",
+        "value": {
+            "a": 1,
+            "b": 245,
+            "g": 48,
+            "r": 133
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "555:1931",
+        "sourceId": "993e46da-0f0a-440d-a027-d79b730590ba",
+        "repositoryId": "2bfa70bc-3124-4745-be75-43ea670936ae"
+    },
+    {
+        "id": "bb2182a5-76ed-44f1-84c0-2502f8600de3",
+        "createdAt": "2022-08-30T03:48:45.777Z",
+        "updatedAt": "2022-08-30T03:48:45.777Z",
+        "name": "Background/Accent/Faded",
+        "value": {
+            "a": 1,
+            "b": 253,
+            "g": 226,
+            "r": 233
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "555:1932",
+        "sourceId": "993e46da-0f0a-440d-a027-d79b730590ba",
+        "repositoryId": "2bfa70bc-3124-4745-be75-43ea670936ae"
+    },
+    {
+        "id": "32fd08c4-87a7-4014-8378-523621b32fe5",
+        "createdAt": "2022-08-30T03:48:45.816Z",
+        "updatedAt": "2022-08-30T03:48:45.816Z",
+        "name": "Background/Accent/Midtone",
+        "value": {
+            "a": 1,
+            "b": 205,
+            "g": 22,
+            "r": 107
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "555:1933",
+        "sourceId": "993e46da-0f0a-440d-a027-d79b730590ba",
+        "repositoryId": "2bfa70bc-3124-4745-be75-43ea670936ae"
+    },
+    {
+        "id": "52cb17ba-3a14-40e7-b7dc-11734bdc96a9",
+        "createdAt": "2022-08-30T03:48:45.773Z",
+        "updatedAt": "2022-08-30T03:48:45.773Z",
+        "name": "Background/Accent/Muted",
+        "value": {
+            "a": 1,
+            "b": 254,
+            "g": 249,
+            "r": 251
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "899:1954",
+        "sourceId": "993e46da-0f0a-440d-a027-d79b730590ba",
+        "repositoryId": "2bfa70bc-3124-4745-be75-43ea670936ae"
+    },
+    {
+        "id": "14935f0c-9f89-455a-b98c-15143aa18abf",
+        "createdAt": "2022-08-30T03:48:45.802Z",
+        "updatedAt": "2022-08-30T03:48:45.802Z",
+        "name": "Background/Alpha/Hover",
+        "value": {
+            "a": 0.02,
+            "b": 19,
+            "g": 0,
+            "r": 8
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "555:1955",
+        "sourceId": "993e46da-0f0a-440d-a027-d79b730590ba",
+        "repositoryId": "2bfa70bc-3124-4745-be75-43ea670936ae"
+    },
+    {
+        "id": "701135ba-eb02-459a-b8d3-0470a9abbba9",
+        "createdAt": "2022-08-30T03:48:45.794Z",
+        "updatedAt": "2022-08-30T03:48:45.794Z",
+        "name": "Background/Alpha/Scrim",
+        "value": {
+            "a": 0.08,
+            "b": 19,
+            "g": 0,
+            "r": 8
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "555:1957",
+        "sourceId": "993e46da-0f0a-440d-a027-d79b730590ba",
+        "repositoryId": "2bfa70bc-3124-4745-be75-43ea670936ae"
+    },
+    {
+        "id": "a9ed9856-8d5d-4c99-abef-c3dcf025e990",
+        "createdAt": "2022-08-30T03:48:45.807Z",
+        "updatedAt": "2022-08-30T03:48:45.807Z",
+        "name": "Background/Alpha/Selected",
+        "value": {
+            "a": 0.08,
+            "b": 19,
+            "g": 0,
+            "r": 8
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "555:1956",
+        "sourceId": "993e46da-0f0a-440d-a027-d79b730590ba",
+        "repositoryId": "2bfa70bc-3124-4745-be75-43ea670936ae"
+    },
+    {
+        "id": "470cc7f0-590d-49f8-9e9f-b9b34a17d606",
+        "createdAt": "2022-08-30T03:48:45.786Z",
+        "updatedAt": "2022-08-30T03:48:45.786Z",
+        "name": "Background/Canvas/Base",
+        "value": {
+            "a": 1,
+            "b": 255,
+            "g": 255,
+            "r": 255
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "555:1922",
+        "sourceId": "993e46da-0f0a-440d-a027-d79b730590ba",
+        "repositoryId": "2bfa70bc-3124-4745-be75-43ea670936ae"
+    },
+    {
+        "id": "fc908d10-b9b8-412f-88bc-982d176bdc1a",
+        "createdAt": "2022-08-30T03:48:45.816Z",
+        "updatedAt": "2022-08-30T03:48:45.816Z",
+        "name": "Background/Canvas/Faded",
+        "value": {
+            "a": 1,
+            "b": 232,
+            "g": 230,
+            "r": 231
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "555:1924",
+        "sourceId": "993e46da-0f0a-440d-a027-d79b730590ba",
+        "repositoryId": "2bfa70bc-3124-4745-be75-43ea670936ae"
+    },
+    {
+        "id": "880d755e-6898-491e-be3a-20b25f950b61",
+        "createdAt": "2022-08-30T03:48:45.767Z",
+        "updatedAt": "2022-08-30T03:48:45.767Z",
+        "name": "Background/Canvas/Inverse",
+        "value": {
+            "a": 1,
+            "b": 19,
+            "g": 0,
+            "r": 8
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "555:1925",
+        "sourceId": "993e46da-0f0a-440d-a027-d79b730590ba",
+        "repositoryId": "2bfa70bc-3124-4745-be75-43ea670936ae"
+    },
+    {
+        "id": "523e5048-4163-4803-bc06-f6a61481867a",
+        "createdAt": "2022-08-30T03:48:45.822Z",
+        "updatedAt": "2022-08-30T03:48:45.822Z",
+        "name": "Background/Canvas/Muted",
+        "value": {
+            "a": 1,
+            "b": 249,
+            "g": 249,
+            "r": 249
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "555:1923",
+        "sourceId": "993e46da-0f0a-440d-a027-d79b730590ba",
+        "repositoryId": "2bfa70bc-3124-4745-be75-43ea670936ae"
+    },
+    {
+        "id": "5f150f0e-94f1-4e10-96bb-83e396850494",
+        "createdAt": "2022-08-30T03:48:45.765Z",
+        "updatedAt": "2022-08-30T03:48:45.765Z",
+        "name": "Background/Critical/Contrast",
+        "value": {
+            "a": 1,
+            "b": 11,
+            "g": 0,
+            "r": 116
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "555:1946",
+        "sourceId": "993e46da-0f0a-440d-a027-d79b730590ba",
+        "repositoryId": "2bfa70bc-3124-4745-be75-43ea670936ae"
+    },
+    {
+        "id": "ee016f24-4e88-47d4-9350-317d4a14b477",
+        "createdAt": "2022-08-30T03:48:45.820Z",
+        "updatedAt": "2022-08-30T03:48:45.820Z",
+        "name": "Background/Critical/Default",
+        "value": {
+            "a": 1,
+            "b": 3,
+            "g": 0,
+            "r": 210
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "555:1943",
+        "sourceId": "993e46da-0f0a-440d-a027-d79b730590ba",
+        "repositoryId": "2bfa70bc-3124-4745-be75-43ea670936ae"
+    },
+    {
+        "id": "9311275d-dcb3-48a7-b09f-602cf074b538",
+        "createdAt": "2022-08-30T03:48:45.824Z",
+        "updatedAt": "2022-08-30T03:48:45.824Z",
+        "name": "Background/Critical/Faded",
+        "value": {
+            "a": 1,
+            "b": 223,
+            "g": 223,
+            "r": 253
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "555:1944",
+        "sourceId": "993e46da-0f0a-440d-a027-d79b730590ba",
+        "repositoryId": "2bfa70bc-3124-4745-be75-43ea670936ae"
+    },
+    {
+        "id": "3e0d8f5b-0a9e-4ce4-815d-c7e14cc510a2",
+        "createdAt": "2022-08-30T03:48:45.797Z",
+        "updatedAt": "2022-08-30T03:48:45.797Z",
+        "name": "Background/Critical/Midtone",
+        "value": {
+            "a": 1,
+            "b": 7,
+            "g": 0,
+            "r": 166
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "555:1945",
+        "sourceId": "993e46da-0f0a-440d-a027-d79b730590ba",
+        "repositoryId": "2bfa70bc-3124-4745-be75-43ea670936ae"
+    },
+    {
+        "id": "07437278-7a4f-4e9d-b64d-f36959ebef64",
+        "createdAt": "2022-08-30T03:48:45.767Z",
+        "updatedAt": "2022-08-30T03:48:45.767Z",
+        "name": "Background/Critical/Muted",
+        "value": {
+            "a": 1,
+            "b": 249,
+            "g": 249,
+            "r": 255
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "899:1957",
+        "sourceId": "993e46da-0f0a-440d-a027-d79b730590ba",
+        "repositoryId": "2bfa70bc-3124-4745-be75-43ea670936ae"
+    },
+    {
+        "id": "9efee261-36dc-4386-8a1b-3a5966329295",
+        "createdAt": "2022-08-30T03:48:45.797Z",
+        "updatedAt": "2022-08-30T03:48:45.797Z",
+        "name": "Background/Elevated/Level 1",
+        "value": {
+            "a": 1,
+            "b": 255,
+            "g": 255,
+            "r": 255
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "555:1951",
+        "sourceId": "993e46da-0f0a-440d-a027-d79b730590ba",
+        "repositoryId": "2bfa70bc-3124-4745-be75-43ea670936ae"
+    },
+    {
+        "id": "b328ecce-4341-46db-9825-12f677ad15ba",
+        "createdAt": "2022-08-30T03:48:45.836Z",
+        "updatedAt": "2022-08-30T03:48:45.836Z",
+        "name": "Background/Elevated/Level 2",
+        "value": {
+            "a": 1,
+            "b": 255,
+            "g": 255,
+            "r": 255
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "555:1952",
+        "sourceId": "993e46da-0f0a-440d-a027-d79b730590ba",
+        "repositoryId": "2bfa70bc-3124-4745-be75-43ea670936ae"
+    },
+    {
+        "id": "72687185-9e46-4b82-870a-806eeccdfb77",
+        "createdAt": "2022-08-30T03:48:45.829Z",
+        "updatedAt": "2022-08-30T03:48:45.829Z",
+        "name": "Background/Elevated/Level 3",
+        "value": {
+            "a": 1,
+            "b": 255,
+            "g": 255,
+            "r": 255
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "555:1953",
+        "sourceId": "993e46da-0f0a-440d-a027-d79b730590ba",
+        "repositoryId": "2bfa70bc-3124-4745-be75-43ea670936ae"
+    },
+    {
+        "id": "0775bfa5-4ff7-4088-9d62-0a9fe499a9d7",
+        "createdAt": "2022-08-30T03:48:45.845Z",
+        "updatedAt": "2022-08-30T03:48:45.845Z",
+        "name": "Background/Elevated/Level 4",
+        "value": {
+            "a": 1,
+            "b": 255,
+            "g": 255,
+            "r": 255
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "555:1954",
+        "sourceId": "993e46da-0f0a-440d-a027-d79b730590ba",
+        "repositoryId": "2bfa70bc-3124-4745-be75-43ea670936ae"
+    },
+    {
+        "id": "e96d3adc-111b-481d-a058-1e3e2de87617",
+        "createdAt": "2022-08-30T03:48:45.816Z",
+        "updatedAt": "2022-08-30T03:48:45.816Z",
+        "name": "Background/Highlight/Contrast",
+        "value": {
+            "a": 1,
+            "b": 55,
+            "g": 23,
+            "r": 103
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "555:1938",
+        "sourceId": "993e46da-0f0a-440d-a027-d79b730590ba",
+        "repositoryId": "2bfa70bc-3124-4745-be75-43ea670936ae"
+    },
+    {
+        "id": "d1dbc002-2dfc-4491-8db5-f63b4195f2c1",
+        "createdAt": "2022-08-30T03:48:45.811Z",
+        "updatedAt": "2022-08-30T03:48:45.811Z",
+        "name": "Background/Highlight/Default",
+        "value": {
+            "a": 1,
+            "b": 93,
+            "g": 20,
+            "r": 201
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "555:1935",
+        "sourceId": "993e46da-0f0a-440d-a027-d79b730590ba",
+        "repositoryId": "2bfa70bc-3124-4745-be75-43ea670936ae"
+    },
+    {
+        "id": "ca3f1da4-c721-4292-9cd7-8f3b76d3d6b7",
+        "createdAt": "2022-08-30T03:48:45.788Z",
+        "updatedAt": "2022-08-30T03:48:45.788Z",
+        "name": "Background/Highlight/Faded",
+        "value": {
+            "a": 1,
+            "b": 229,
+            "g": 223,
+            "r": 255
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "555:1936",
+        "sourceId": "993e46da-0f0a-440d-a027-d79b730590ba",
+        "repositoryId": "2bfa70bc-3124-4745-be75-43ea670936ae"
+    },
+    {
+        "id": "d355e103-2af9-434b-93ae-1817811dc8fc",
+        "createdAt": "2022-08-30T03:48:45.788Z",
+        "updatedAt": "2022-08-30T03:48:45.788Z",
+        "name": "Background/Highlight/Midtone",
+        "value": {
+            "a": 1,
+            "b": 75,
+            "g": 25,
+            "r": 154
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "555:1937",
+        "sourceId": "993e46da-0f0a-440d-a027-d79b730590ba",
+        "repositoryId": "2bfa70bc-3124-4745-be75-43ea670936ae"
+    },
+    {
+        "id": "60316d4c-fccd-40ca-b8a3-bc8cdd58cee6",
+        "createdAt": "2022-08-30T03:48:45.757Z",
+        "updatedAt": "2022-08-30T03:48:45.757Z",
+        "name": "Background/Highlight/Muted",
+        "value": {
+            "a": 1,
+            "b": 250,
+            "g": 249,
+            "r": 255
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "899:1955",
+        "sourceId": "993e46da-0f0a-440d-a027-d79b730590ba",
+        "repositoryId": "2bfa70bc-3124-4745-be75-43ea670936ae"
+    },
+    {
+        "id": "0b5aef9c-9a0c-4700-86fc-02ce92226f45",
+        "createdAt": "2022-08-30T03:48:45.802Z",
+        "updatedAt": "2022-08-30T03:48:45.802Z",
+        "name": "Background/Neutral/Contrast",
+        "value": {
+            "a": 1,
+            "b": 67,
+            "g": 51,
+            "r": 59
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "555:1929",
+        "sourceId": "993e46da-0f0a-440d-a027-d79b730590ba",
+        "repositoryId": "2bfa70bc-3124-4745-be75-43ea670936ae"
+    },
+    {
+        "id": "637a8dae-cd5d-445a-aa0a-3c92b9ad5e72",
+        "createdAt": "2022-08-30T03:48:45.788Z",
+        "updatedAt": "2022-08-30T03:48:45.788Z",
+        "name": "Background/Neutral/Default",
+        "value": {
+            "a": 1,
+            "b": 47,
+            "g": 30,
+            "r": 38
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "555:1926",
+        "sourceId": "993e46da-0f0a-440d-a027-d79b730590ba",
+        "repositoryId": "2bfa70bc-3124-4745-be75-43ea670936ae"
+    },
+    {
+        "id": "b58aaaa7-c046-4819-8341-27af843ad2ad",
+        "createdAt": "2022-08-30T03:48:45.827Z",
+        "updatedAt": "2022-08-30T03:48:45.827Z",
+        "name": "Background/Neutral/Disabled",
+        "value": {
+            "a": 0.08,
+            "b": 19,
+            "g": 0,
+            "r": 8
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "555:1930",
+        "sourceId": "993e46da-0f0a-440d-a027-d79b730590ba",
+        "repositoryId": "2bfa70bc-3124-4745-be75-43ea670936ae"
+    },
+    {
+        "id": "cb802cfe-41d3-4ce7-81e8-5bb243e9ab8d",
+        "createdAt": "2022-08-30T03:48:45.786Z",
+        "updatedAt": "2022-08-30T03:48:45.786Z",
+        "name": "Background/Neutral/Faded",
+        "value": {
+            "a": 1,
+            "b": 232,
+            "g": 230,
+            "r": 231
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "555:1927",
+        "sourceId": "993e46da-0f0a-440d-a027-d79b730590ba",
+        "repositoryId": "2bfa70bc-3124-4745-be75-43ea670936ae"
+    },
+    {
+        "id": "c5c21167-5482-4e6e-a2c3-aa1c6560787c",
+        "createdAt": "2022-08-30T03:48:45.847Z",
+        "updatedAt": "2022-08-30T03:48:45.847Z",
+        "name": "Background/Neutral/Midtone",
+        "value": {
+            "a": 1,
+            "b": 91,
+            "g": 78,
+            "r": 84
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "555:1928",
+        "sourceId": "993e46da-0f0a-440d-a027-d79b730590ba",
+        "repositoryId": "2bfa70bc-3124-4745-be75-43ea670936ae"
+    },
+    {
+        "id": "e9a769fd-eb14-4d26-8ad7-ac7eddf66043",
+        "createdAt": "2022-08-30T03:48:45.748Z",
+        "updatedAt": "2022-08-30T03:48:45.748Z",
+        "name": "Background/Neutral/Muted",
+        "value": {
+            "a": 1,
+            "b": 249,
+            "g": 249,
+            "r": 249
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "899:1953",
+        "sourceId": "993e46da-0f0a-440d-a027-d79b730590ba",
+        "repositoryId": "2bfa70bc-3124-4745-be75-43ea670936ae"
+    },
+    {
+        "id": "f87828c6-6c21-4afe-9609-568f696a0716",
+        "createdAt": "2022-08-30T03:48:45.771Z",
+        "updatedAt": "2022-08-30T03:48:45.771Z",
+        "name": "Background/Positive/Contrast",
+        "value": {
+            "a": 1,
+            "b": 57,
+            "g": 61,
+            "r": 11
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "555:1942",
+        "sourceId": "993e46da-0f0a-440d-a027-d79b730590ba",
+        "repositoryId": "2bfa70bc-3124-4745-be75-43ea670936ae"
+    },
+    {
+        "id": "a2bd2701-c897-4659-a4aa-a910cb3721a0",
+        "createdAt": "2022-08-30T03:48:45.806Z",
+        "updatedAt": "2022-08-30T03:48:45.806Z",
+        "name": "Background/Positive/Default",
+        "value": {
+            "a": 1,
+            "b": 90,
+            "g": 118,
+            "r": 11
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "555:1939",
+        "sourceId": "993e46da-0f0a-440d-a027-d79b730590ba",
+        "repositoryId": "2bfa70bc-3124-4745-be75-43ea670936ae"
+    },
+    {
+        "id": "447b504e-ed32-4a8e-bf0f-6b461e777201",
+        "createdAt": "2022-08-30T03:48:45.858Z",
+        "updatedAt": "2022-08-30T03:48:45.858Z",
+        "name": "Background/Positive/Faded",
+        "value": {
+            "a": 1,
+            "b": 217,
+            "g": 248,
+            "r": 157
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "555:1940",
+        "sourceId": "993e46da-0f0a-440d-a027-d79b730590ba",
+        "repositoryId": "2bfa70bc-3124-4745-be75-43ea670936ae"
+    },
+    {
+        "id": "abf246f3-bf91-4234-90f9-b605557e177a",
+        "createdAt": "2022-08-30T03:48:45.850Z",
+        "updatedAt": "2022-08-30T03:48:45.850Z",
+        "name": "Background/Positive/Midtone",
+        "value": {
+            "a": 1,
+            "b": 75,
+            "g": 91,
+            "r": 11
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "555:1941",
+        "sourceId": "993e46da-0f0a-440d-a027-d79b730590ba",
+        "repositoryId": "2bfa70bc-3124-4745-be75-43ea670936ae"
+    },
+    {
+        "id": "bd91aaba-75a3-4cca-9eff-089f1c0028ac",
+        "createdAt": "2022-08-30T03:48:45.774Z",
+        "updatedAt": "2022-08-30T03:48:45.774Z",
+        "name": "Background/Positive/Muted",
+        "value": {
+            "a": 1,
+            "b": 248,
+            "g": 254,
+            "r": 238
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "899:1956",
+        "sourceId": "993e46da-0f0a-440d-a027-d79b730590ba",
+        "repositoryId": "2bfa70bc-3124-4745-be75-43ea670936ae"
+    },
+    {
+        "id": "5afe5753-0a4c-4c4d-bcdc-4f5c6e293d1e",
+        "createdAt": "2022-08-30T03:48:45.760Z",
+        "updatedAt": "2022-08-30T03:48:45.760Z",
+        "name": "Background/Warning/Contrast",
+        "value": {
+            "a": 1,
+            "b": 0,
+            "g": 35,
+            "r": 97
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "555:1950",
+        "sourceId": "993e46da-0f0a-440d-a027-d79b730590ba",
+        "repositoryId": "2bfa70bc-3124-4745-be75-43ea670936ae"
+    },
+    {
+        "id": "6cff731c-f257-4f06-9f7d-540fe82ef9c0",
+        "createdAt": "2022-08-30T03:48:45.782Z",
+        "updatedAt": "2022-08-30T03:48:45.782Z",
+        "name": "Background/Warning/Default",
+        "value": {
+            "a": 1,
+            "b": 48,
+            "g": 195,
+            "r": 255
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "555:1947",
+        "sourceId": "993e46da-0f0a-440d-a027-d79b730590ba",
+        "repositoryId": "2bfa70bc-3124-4745-be75-43ea670936ae"
+    },
+    {
+        "id": "39d946ed-c362-4941-adfb-18d7dbeebec2",
+        "createdAt": "2022-08-30T03:48:45.804Z",
+        "updatedAt": "2022-08-30T03:48:45.804Z",
+        "name": "Background/Warning/Faded",
+        "value": {
+            "a": 1,
+            "b": 168,
+            "g": 228,
+            "r": 255
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "555:1948",
+        "sourceId": "993e46da-0f0a-440d-a027-d79b730590ba",
+        "repositoryId": "2bfa70bc-3124-4745-be75-43ea670936ae"
+    },
+    {
+        "id": "f78b8853-f7dc-4a13-abff-0c3f4a3c6c2b",
+        "createdAt": "2022-08-30T03:48:45.773Z",
+        "updatedAt": "2022-08-30T03:48:45.773Z",
+        "name": "Background/Warning/Midtone",
+        "value": {
+            "a": 1,
+            "b": 0,
+            "g": 62,
+            "r": 129
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "555:1949",
+        "sourceId": "993e46da-0f0a-440d-a027-d79b730590ba",
+        "repositoryId": "2bfa70bc-3124-4745-be75-43ea670936ae"
+    },
+    {
+        "id": "b22db530-df34-4535-9c7c-6fed848beaba",
+        "createdAt": "2022-08-30T03:48:45.765Z",
+        "updatedAt": "2022-08-30T03:48:45.765Z",
+        "name": "Background/Warning/Muted",
+        "value": {
+            "a": 1,
+            "b": 238,
+            "g": 249,
+            "r": 255
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "899:1958",
+        "sourceId": "993e46da-0f0a-440d-a027-d79b730590ba",
+        "repositoryId": "2bfa70bc-3124-4745-be75-43ea670936ae"
+    },
+    {
+        "id": "02a6fee8-2cc8-456c-99ab-5105ddc64553",
+        "createdAt": "2022-08-30T03:48:45.797Z",
+        "updatedAt": "2022-08-30T03:48:45.797Z",
+        "name": "Border/Accent/Default",
+        "value": {
+            "a": 1,
+            "b": 253,
+            "g": 226,
+            "r": 233
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "555:1987",
+        "sourceId": "993e46da-0f0a-440d-a027-d79b730590ba",
+        "repositoryId": "2bfa70bc-3124-4745-be75-43ea670936ae"
+    },
+    {
+        "id": "d4fd31e3-7780-485a-8a73-dbd7f067d956",
+        "createdAt": "2022-08-30T03:48:45.816Z",
+        "updatedAt": "2022-08-30T03:48:45.816Z",
+        "name": "Border/Accent/Interactive",
+        "value": {
+            "a": 1,
+            "b": 248,
+            "g": 106,
+            "r": 155
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "555:1988",
+        "sourceId": "993e46da-0f0a-440d-a027-d79b730590ba",
+        "repositoryId": "2bfa70bc-3124-4745-be75-43ea670936ae"
+    },
+    {
+        "id": "d218fff6-2e76-4cd1-83ba-809266f2c78e",
+        "createdAt": "2022-08-30T03:48:45.838Z",
+        "updatedAt": "2022-08-30T03:48:45.838Z",
+        "name": "Border/Accent/Muted",
+        "value": {
+            "a": 1,
+            "b": 254,
+            "g": 249,
+            "r": 251
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "555:1990",
+        "sourceId": "993e46da-0f0a-440d-a027-d79b730590ba",
+        "repositoryId": "2bfa70bc-3124-4745-be75-43ea670936ae"
+    },
+    {
+        "id": "8c5043a7-8fab-4b25-84ab-026f45fb51c8",
+        "createdAt": "2022-08-30T03:48:45.813Z",
+        "updatedAt": "2022-08-30T03:48:45.813Z",
+        "name": "Border/Accent/Selected",
+        "value": {
+            "a": 1,
+            "b": 245,
+            "g": 48,
+            "r": 133
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "555:1989",
+        "sourceId": "993e46da-0f0a-440d-a027-d79b730590ba",
+        "repositoryId": "2bfa70bc-3124-4745-be75-43ea670936ae"
+    },
+    {
+        "id": "0731dd73-8e3d-494f-a42b-86a2b27a03ed",
+        "createdAt": "2022-08-30T03:48:45.856Z",
+        "updatedAt": "2022-08-30T03:48:45.856Z",
+        "name": "Border/Critical/Default",
+        "value": {
+            "a": 1,
+            "b": 223,
+            "g": 223,
+            "r": 253
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "555:1999",
+        "sourceId": "993e46da-0f0a-440d-a027-d79b730590ba",
+        "repositoryId": "2bfa70bc-3124-4745-be75-43ea670936ae"
+    },
+    {
+        "id": "8795726c-fe1c-41e6-a1f3-53773e87b9f8",
+        "createdAt": "2022-08-30T03:48:45.856Z",
+        "updatedAt": "2022-08-30T03:48:45.856Z",
+        "name": "Border/Critical/Interactive",
+        "value": {
+            "a": 1,
+            "b": 68,
+            "g": 68,
+            "r": 246
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "555:2000",
+        "sourceId": "993e46da-0f0a-440d-a027-d79b730590ba",
+        "repositoryId": "2bfa70bc-3124-4745-be75-43ea670936ae"
+    },
+    {
+        "id": "8762ed36-5031-427f-a2a6-041882cfd138",
+        "createdAt": "2022-08-30T03:48:45.850Z",
+        "updatedAt": "2022-08-30T03:48:45.850Z",
+        "name": "Border/Critical/Muted",
+        "value": {
+            "a": 1,
+            "b": 249,
+            "g": 249,
+            "r": 255
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "555:2002",
+        "sourceId": "993e46da-0f0a-440d-a027-d79b730590ba",
+        "repositoryId": "2bfa70bc-3124-4745-be75-43ea670936ae"
+    },
+    {
+        "id": "1ce7c79a-432e-467d-a3f4-1d0003e46531",
+        "createdAt": "2022-08-30T03:48:45.854Z",
+        "updatedAt": "2022-08-30T03:48:45.854Z",
+        "name": "Border/Critical/Selected",
+        "value": {
+            "a": 1,
+            "b": 3,
+            "g": 0,
+            "r": 210
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "555:2001",
+        "sourceId": "993e46da-0f0a-440d-a027-d79b730590ba",
+        "repositoryId": "2bfa70bc-3124-4745-be75-43ea670936ae"
+    },
+    {
+        "id": "968dafbf-7688-40e1-b871-787961740008",
+        "createdAt": "2022-08-30T03:48:45.863Z",
+        "updatedAt": "2022-08-30T03:48:45.863Z",
+        "name": "Border/Highlight/Default",
+        "value": {
+            "a": 1,
+            "b": 229,
+            "g": 223,
+            "r": 255
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "555:1991",
+        "sourceId": "993e46da-0f0a-440d-a027-d79b730590ba",
+        "repositoryId": "2bfa70bc-3124-4745-be75-43ea670936ae"
+    },
+    {
+        "id": "12024374-d53b-4481-934e-96c5199bb3b6",
+        "createdAt": "2022-08-30T03:48:45.806Z",
+        "updatedAt": "2022-08-30T03:48:45.806Z",
+        "name": "Border/Highlight/Interactive",
+        "value": {
+            "a": 1,
+            "b": 119,
+            "g": 41,
+            "r": 255
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "555:1992",
+        "sourceId": "993e46da-0f0a-440d-a027-d79b730590ba",
+        "repositoryId": "2bfa70bc-3124-4745-be75-43ea670936ae"
+    },
+    {
+        "id": "eafbdf1f-1b22-43d6-bfb3-a5a5fb1b0b3b",
+        "createdAt": "2022-08-30T03:48:45.786Z",
+        "updatedAt": "2022-08-30T03:48:45.786Z",
+        "name": "Border/Highlight/Muted",
+        "value": {
+            "a": 1,
+            "b": 250,
+            "g": 249,
+            "r": 255
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "555:1994",
+        "sourceId": "993e46da-0f0a-440d-a027-d79b730590ba",
+        "repositoryId": "2bfa70bc-3124-4745-be75-43ea670936ae"
+    },
+    {
+        "id": "669bc096-5e5c-48c0-96e0-0a6dfc0cd712",
+        "createdAt": "2022-08-30T03:48:45.849Z",
+        "updatedAt": "2022-08-30T03:48:45.849Z",
+        "name": "Border/Highlight/Selected",
+        "value": {
+            "a": 1,
+            "b": 93,
+            "g": 20,
+            "r": 201
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "555:1993",
+        "sourceId": "993e46da-0f0a-440d-a027-d79b730590ba",
+        "repositoryId": "2bfa70bc-3124-4745-be75-43ea670936ae"
+    },
+    {
+        "id": "d634ea50-2f13-4374-b573-b2dc66a66f30",
+        "createdAt": "2022-08-30T03:48:45.828Z",
+        "updatedAt": "2022-08-30T03:48:45.828Z",
+        "name": "Border/Neutral/Default",
+        "value": {
+            "a": 1,
+            "b": 232,
+            "g": 230,
+            "r": 231
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "555:1983",
+        "sourceId": "993e46da-0f0a-440d-a027-d79b730590ba",
+        "repositoryId": "2bfa70bc-3124-4745-be75-43ea670936ae"
+    },
+    {
+        "id": "892e2d1f-cc0a-43a6-9e65-6394d94909c9",
+        "createdAt": "2022-08-30T03:48:45.788Z",
+        "updatedAt": "2022-08-30T03:48:45.788Z",
+        "name": "Border/Neutral/Interactive",
+        "value": {
+            "a": 1,
+            "b": 143,
+            "g": 133,
+            "r": 138
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "555:1984",
+        "sourceId": "993e46da-0f0a-440d-a027-d79b730590ba",
+        "repositoryId": "2bfa70bc-3124-4745-be75-43ea670936ae"
+    },
+    {
+        "id": "05dea20b-4b6a-438e-919f-41720c9df9d1",
+        "createdAt": "2022-08-30T03:48:45.811Z",
+        "updatedAt": "2022-08-30T03:48:45.811Z",
+        "name": "Border/Neutral/Muted",
+        "value": {
+            "a": 1,
+            "b": 249,
+            "g": 249,
+            "r": 249
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "555:1986",
+        "sourceId": "993e46da-0f0a-440d-a027-d79b730590ba",
+        "repositoryId": "2bfa70bc-3124-4745-be75-43ea670936ae"
+    },
+    {
+        "id": "3f7e5d65-c333-4d7c-b55c-f9fdcd8a6989",
+        "createdAt": "2022-08-30T03:48:45.867Z",
+        "updatedAt": "2022-08-30T03:48:45.867Z",
+        "name": "Border/Neutral/Selected",
+        "value": {
+            "a": 1,
+            "b": 114,
+            "g": 101,
+            "r": 107
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "555:1985",
+        "sourceId": "993e46da-0f0a-440d-a027-d79b730590ba",
+        "repositoryId": "2bfa70bc-3124-4745-be75-43ea670936ae"
+    },
+    {
+        "id": "220370e9-fcbc-4466-92e7-5c60d5a9d91a",
+        "createdAt": "2022-08-30T03:48:45.866Z",
+        "updatedAt": "2022-08-30T03:48:45.866Z",
+        "name": "Border/Positive/Default",
+        "value": {
+            "a": 1,
+            "b": 217,
+            "g": 248,
+            "r": 157
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "555:1995",
+        "sourceId": "993e46da-0f0a-440d-a027-d79b730590ba",
+        "repositoryId": "2bfa70bc-3124-4745-be75-43ea670936ae"
+    },
+    {
+        "id": "244015e0-1ad3-4c32-b715-cbd6fec9438d",
+        "createdAt": "2022-08-30T03:48:45.810Z",
+        "updatedAt": "2022-08-30T03:48:45.810Z",
+        "name": "Border/Positive/Interactive",
+        "value": {
+            "a": 1,
+            "b": 112,
+            "g": 153,
+            "r": 11
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "555:1996",
+        "sourceId": "993e46da-0f0a-440d-a027-d79b730590ba",
+        "repositoryId": "2bfa70bc-3124-4745-be75-43ea670936ae"
+    },
+    {
+        "id": "ad197c3b-c8a2-4248-a86c-4a327f97207a",
+        "createdAt": "2022-08-30T03:48:45.856Z",
+        "updatedAt": "2022-08-30T03:48:45.856Z",
+        "name": "Border/Positive/Muted",
+        "value": {
+            "a": 1,
+            "b": 248,
+            "g": 254,
+            "r": 238
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "555:1998",
+        "sourceId": "993e46da-0f0a-440d-a027-d79b730590ba",
+        "repositoryId": "2bfa70bc-3124-4745-be75-43ea670936ae"
+    },
+    {
+        "id": "464875fb-d256-421b-b3eb-39dd027c3369",
+        "createdAt": "2022-08-30T03:48:45.803Z",
+        "updatedAt": "2022-08-30T03:48:45.803Z",
+        "name": "Border/Positive/Selected",
+        "value": {
+            "a": 1,
+            "b": 90,
+            "g": 118,
+            "r": 11
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "555:1997",
+        "sourceId": "993e46da-0f0a-440d-a027-d79b730590ba",
+        "repositoryId": "2bfa70bc-3124-4745-be75-43ea670936ae"
+    },
+    {
+        "id": "b9048d3e-2efa-4ba9-8140-4044fc654d46",
+        "createdAt": "2022-08-30T03:48:45.836Z",
+        "updatedAt": "2022-08-30T03:48:45.836Z",
+        "name": "Border/Warning/Default",
+        "value": {
+            "a": 1,
+            "b": 168,
+            "g": 228,
+            "r": 255
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "555:2003",
+        "sourceId": "993e46da-0f0a-440d-a027-d79b730590ba",
+        "repositoryId": "2bfa70bc-3124-4745-be75-43ea670936ae"
+    },
+    {
+        "id": "e1f2f8a7-e766-421f-9a6e-c4628ec9b931",
+        "createdAt": "2022-08-30T03:48:45.846Z",
+        "updatedAt": "2022-08-30T03:48:45.846Z",
+        "name": "Border/Warning/Interactive",
+        "value": {
+            "a": 1,
+            "b": 41,
+            "g": 116,
+            "r": 194
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "555:2004",
+        "sourceId": "993e46da-0f0a-440d-a027-d79b730590ba",
+        "repositoryId": "2bfa70bc-3124-4745-be75-43ea670936ae"
+    },
+    {
+        "id": "7907a018-9824-443e-8637-96e17e025571",
+        "createdAt": "2022-08-30T03:48:45.847Z",
+        "updatedAt": "2022-08-30T03:48:45.847Z",
+        "name": "Border/Warning/Muted",
+        "value": {
+            "a": 1,
+            "b": 238,
+            "g": 249,
+            "r": 255
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "555:2006",
+        "sourceId": "993e46da-0f0a-440d-a027-d79b730590ba",
+        "repositoryId": "2bfa70bc-3124-4745-be75-43ea670936ae"
+    },
+    {
+        "id": "82664caf-65de-43e1-a3c7-8b2948aaf5e9",
+        "createdAt": "2022-08-30T03:48:45.863Z",
+        "updatedAt": "2022-08-30T03:48:45.863Z",
+        "name": "Border/Warning/Selected",
+        "value": {
+            "a": 1,
+            "b": 4,
+            "g": 85,
+            "r": 157
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "555:2005",
+        "sourceId": "993e46da-0f0a-440d-a027-d79b730590ba",
+        "repositoryId": "2bfa70bc-3124-4745-be75-43ea670936ae"
+    },
+    {
+        "id": "a17ba0f7-aad5-4733-8647-4c6c5e742454",
+        "createdAt": "2022-08-30T03:48:45.835Z",
+        "updatedAt": "2022-08-30T03:48:45.835Z",
+        "name": "Content/Accent/Default",
+        "value": {
+            "a": 1,
+            "b": 245,
+            "g": 48,
+            "r": 133
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "555:1963",
+        "sourceId": "993e46da-0f0a-440d-a027-d79b730590ba",
+        "repositoryId": "2bfa70bc-3124-4745-be75-43ea670936ae"
+    },
+    {
+        "id": "f2492d69-d823-49b2-89a7-850d53aac83a",
+        "createdAt": "2022-08-30T03:48:45.841Z",
+        "updatedAt": "2022-08-30T03:48:45.841Z",
+        "name": "Content/Accent/Icon",
+        "value": {
+            "a": 1,
+            "b": 248,
+            "g": 106,
+            "r": 155
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "555:1965",
+        "sourceId": "993e46da-0f0a-440d-a027-d79b730590ba",
+        "repositoryId": "2bfa70bc-3124-4745-be75-43ea670936ae"
+    },
+    {
+        "id": "3d07eb2b-f8cc-4930-9a70-81acf39334de",
+        "createdAt": "2022-08-30T03:48:45.833Z",
+        "updatedAt": "2022-08-30T03:48:45.833Z",
+        "name": "Content/Accent/onColor",
+        "value": {
+            "a": 1,
+            "b": 254,
+            "g": 249,
+            "r": 251
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "555:1966",
+        "sourceId": "993e46da-0f0a-440d-a027-d79b730590ba",
+        "repositoryId": "2bfa70bc-3124-4745-be75-43ea670936ae"
+    },
+    {
+        "id": "86ffee0d-378b-4bc1-9378-72b8d1aadf0f",
+        "createdAt": "2022-08-30T03:48:45.837Z",
+        "updatedAt": "2022-08-30T03:48:45.837Z",
+        "name": "Content/Accent/Secondary",
+        "value": {
+            "a": 1,
+            "b": 246,
+            "g": 72,
+            "r": 140
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "555:1964",
+        "sourceId": "993e46da-0f0a-440d-a027-d79b730590ba",
+        "repositoryId": "2bfa70bc-3124-4745-be75-43ea670936ae"
+    },
+    {
+        "id": "ff349b5b-4def-4797-b34c-4dca67b759a5",
+        "createdAt": "2022-08-30T03:48:45.849Z",
+        "updatedAt": "2022-08-30T03:48:45.849Z",
+        "name": "Content/Critical/Default",
+        "value": {
+            "a": 1,
+            "b": 3,
+            "g": 0,
+            "r": 210
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "555:1975",
+        "sourceId": "993e46da-0f0a-440d-a027-d79b730590ba",
+        "repositoryId": "2bfa70bc-3124-4745-be75-43ea670936ae"
+    },
+    {
+        "id": "906acf2c-47bd-4a50-97b1-81abd6778651",
+        "createdAt": "2022-08-30T03:48:45.805Z",
+        "updatedAt": "2022-08-30T03:48:45.805Z",
+        "name": "Content/Critical/Icon",
+        "value": {
+            "a": 1,
+            "b": 68,
+            "g": 68,
+            "r": 246
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "555:1977",
+        "sourceId": "993e46da-0f0a-440d-a027-d79b730590ba",
+        "repositoryId": "2bfa70bc-3124-4745-be75-43ea670936ae"
+    },
+    {
+        "id": "fef14c02-bf2b-479c-a1ca-513fbe77b6c7",
+        "createdAt": "2022-08-30T03:48:45.846Z",
+        "updatedAt": "2022-08-30T03:48:45.846Z",
+        "name": "Content/Critical/onColor",
+        "value": {
+            "a": 1,
+            "b": 249,
+            "g": 249,
+            "r": 255
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "555:1978",
+        "sourceId": "993e46da-0f0a-440d-a027-d79b730590ba",
+        "repositoryId": "2bfa70bc-3124-4745-be75-43ea670936ae"
+    },
+    {
+        "id": "bdc51281-1725-4d5d-af66-72dd5ff22087",
+        "createdAt": "2022-08-30T03:48:45.823Z",
+        "updatedAt": "2022-08-30T03:48:45.823Z",
+        "name": "Content/Critical/Secondary",
+        "value": {
+            "a": 1,
+            "b": 1,
+            "g": 0,
+            "r": 230
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "555:1976",
+        "sourceId": "993e46da-0f0a-440d-a027-d79b730590ba",
+        "repositoryId": "2bfa70bc-3124-4745-be75-43ea670936ae"
+    },
+    {
+        "id": "aadf9328-6780-4cb0-8627-06caa2cf12ac",
+        "createdAt": "2022-08-30T03:48:45.859Z",
+        "updatedAt": "2022-08-30T03:48:45.859Z",
+        "name": "Content/Highlight/Default",
+        "value": {
+            "a": 1,
+            "b": 93,
+            "g": 20,
+            "r": 201
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "555:1967",
+        "sourceId": "993e46da-0f0a-440d-a027-d79b730590ba",
+        "repositoryId": "2bfa70bc-3124-4745-be75-43ea670936ae"
+    },
+    {
+        "id": "1730f778-9d25-4ef0-a2f9-b5d7616bd799",
+        "createdAt": "2022-08-30T03:48:45.837Z",
+        "updatedAt": "2022-08-30T03:48:45.837Z",
+        "name": "Content/Highlight/Icon",
+        "value": {
+            "a": 1,
+            "b": 119,
+            "g": 41,
+            "r": 255
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "555:1969",
+        "sourceId": "993e46da-0f0a-440d-a027-d79b730590ba",
+        "repositoryId": "2bfa70bc-3124-4745-be75-43ea670936ae"
+    },
+    {
+        "id": "8b407e1b-f583-4932-8bdf-68bca4d6d1ed",
+        "createdAt": "2022-08-30T03:48:45.823Z",
+        "updatedAt": "2022-08-30T03:48:45.823Z",
+        "name": "Content/Highlight/onColor",
+        "value": {
+            "a": 1,
+            "b": 250,
+            "g": 249,
+            "r": 255
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "555:1970",
+        "sourceId": "993e46da-0f0a-440d-a027-d79b730590ba",
+        "repositoryId": "2bfa70bc-3124-4745-be75-43ea670936ae"
+    },
+    {
+        "id": "dfa185b2-b2a8-418b-9871-d5d001352d57",
+        "createdAt": "2022-08-30T03:48:45.852Z",
+        "updatedAt": "2022-08-30T03:48:45.852Z",
+        "name": "Content/Highlight/Secondary",
+        "value": {
+            "a": 1,
+            "b": 101,
+            "g": 15,
+            "r": 222
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "555:1968",
+        "sourceId": "993e46da-0f0a-440d-a027-d79b730590ba",
+        "repositoryId": "2bfa70bc-3124-4745-be75-43ea670936ae"
+    },
+    {
+        "id": "32916969-2243-4e55-8073-29394b68c445",
+        "createdAt": "2022-08-30T03:48:45.810Z",
+        "updatedAt": "2022-08-30T03:48:45.810Z",
+        "name": "Content/Neutral/Default",
+        "value": {
+            "a": 1,
+            "b": 47,
+            "g": 30,
+            "r": 38
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "555:1958",
+        "sourceId": "993e46da-0f0a-440d-a027-d79b730590ba",
+        "repositoryId": "2bfa70bc-3124-4745-be75-43ea670936ae"
+    },
+    {
+        "id": "cc02111f-8e49-4a0e-be25-073f90e25a01",
+        "createdAt": "2022-08-30T03:48:45.866Z",
+        "updatedAt": "2022-08-30T03:48:45.866Z",
+        "name": "Content/Neutral/Disabled",
+        "value": {
+            "a": 0.08,
+            "b": 19,
+            "g": 0,
+            "r": 8
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "555:1962",
+        "sourceId": "993e46da-0f0a-440d-a027-d79b730590ba",
+        "repositoryId": "2bfa70bc-3124-4745-be75-43ea670936ae"
+    },
+    {
+        "id": "08e23e9a-6c9b-4a0e-ae9a-acae9bc170dd",
+        "createdAt": "2022-08-30T03:48:45.828Z",
+        "updatedAt": "2022-08-30T03:48:45.828Z",
+        "name": "Content/Neutral/Icon",
+        "value": {
+            "a": 1,
+            "b": 143,
+            "g": 133,
+            "r": 138
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "555:1960",
+        "sourceId": "993e46da-0f0a-440d-a027-d79b730590ba",
+        "repositoryId": "2bfa70bc-3124-4745-be75-43ea670936ae"
+    },
+    {
+        "id": "1fec2c3f-d5ad-43d5-8c9f-cbca8222d656",
+        "createdAt": "2022-08-30T03:48:45.786Z",
+        "updatedAt": "2022-08-30T03:48:45.786Z",
+        "name": "Content/Neutral/onColor",
+        "value": {
+            "a": 1,
+            "b": 255,
+            "g": 255,
+            "r": 255
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "555:1961",
+        "sourceId": "993e46da-0f0a-440d-a027-d79b730590ba",
+        "repositoryId": "2bfa70bc-3124-4745-be75-43ea670936ae"
+    },
+    {
+        "id": "e6e9051a-998c-469c-9148-be0a5bcd139f",
+        "createdAt": "2022-08-30T03:48:45.841Z",
+        "updatedAt": "2022-08-30T03:48:45.841Z",
+        "name": "Content/Neutral/Secondary",
+        "value": {
+            "a": 1,
+            "b": 114,
+            "g": 101,
+            "r": 107
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "555:1959",
+        "sourceId": "993e46da-0f0a-440d-a027-d79b730590ba",
+        "repositoryId": "2bfa70bc-3124-4745-be75-43ea670936ae"
+    },
+    {
+        "id": "ad3ab211-8072-4fa5-9f8a-a6db8138d16a",
+        "createdAt": "2022-08-30T03:48:45.797Z",
+        "updatedAt": "2022-08-30T03:48:45.797Z",
+        "name": "Content/Positive/Default",
+        "value": {
+            "a": 1,
+            "b": 90,
+            "g": 118,
+            "r": 11
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "555:1971",
+        "sourceId": "993e46da-0f0a-440d-a027-d79b730590ba",
+        "repositoryId": "2bfa70bc-3124-4745-be75-43ea670936ae"
+    },
+    {
+        "id": "1e18b2e4-3aa8-402c-8313-1fb3fa62215d",
+        "createdAt": "2022-08-30T03:48:45.796Z",
+        "updatedAt": "2022-08-30T03:48:45.796Z",
+        "name": "Content/Positive/Icon",
+        "value": {
+            "a": 1,
+            "b": 112,
+            "g": 153,
+            "r": 11
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "555:1973",
+        "sourceId": "993e46da-0f0a-440d-a027-d79b730590ba",
+        "repositoryId": "2bfa70bc-3124-4745-be75-43ea670936ae"
+    },
+    {
+        "id": "f628a78d-1e85-4395-a7a4-df2d71798a7c",
+        "createdAt": "2022-08-30T03:48:45.867Z",
+        "updatedAt": "2022-08-30T03:48:45.867Z",
+        "name": "Content/Positive/onColor",
+        "value": {
+            "a": 1,
+            "b": 248,
+            "g": 254,
+            "r": 238
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "555:1974",
+        "sourceId": "993e46da-0f0a-440d-a027-d79b730590ba",
+        "repositoryId": "2bfa70bc-3124-4745-be75-43ea670936ae"
+    },
+    {
+        "id": "5f1ee64c-fa66-47d0-80fe-dd0baa73ba1c",
+        "createdAt": "2022-08-30T03:48:45.784Z",
+        "updatedAt": "2022-08-30T03:48:45.784Z",
+        "name": "Content/Positive/Secondary",
+        "value": {
+            "a": 1,
+            "b": 98,
+            "g": 129,
+            "r": 11
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "555:1972",
+        "sourceId": "993e46da-0f0a-440d-a027-d79b730590ba",
+        "repositoryId": "2bfa70bc-3124-4745-be75-43ea670936ae"
+    },
+    {
+        "id": "6278c720-6c41-4dbe-9e88-1df6c9c5fc76",
+        "createdAt": "2022-08-30T03:48:45.842Z",
+        "updatedAt": "2022-08-30T03:48:45.842Z",
+        "name": "Content/Warning/Default",
+        "value": {
+            "a": 1,
+            "b": 4,
+            "g": 85,
+            "r": 157
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "555:1979",
+        "sourceId": "993e46da-0f0a-440d-a027-d79b730590ba",
+        "repositoryId": "2bfa70bc-3124-4745-be75-43ea670936ae"
+    },
+    {
+        "id": "7c270513-ae21-4fa2-acdd-845148522835",
+        "createdAt": "2022-08-30T03:48:45.785Z",
+        "updatedAt": "2022-08-30T03:48:45.785Z",
+        "name": "Content/Warning/Icon",
+        "value": {
+            "a": 1,
+            "b": 41,
+            "g": 116,
+            "r": 194
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "555:1981",
+        "sourceId": "993e46da-0f0a-440d-a027-d79b730590ba",
+        "repositoryId": "2bfa70bc-3124-4745-be75-43ea670936ae"
+    },
+    {
+        "id": "22f2caed-e62f-4f41-b40b-5585b8a51fd2",
+        "createdAt": "2022-08-30T03:48:45.807Z",
+        "updatedAt": "2022-08-30T03:48:45.807Z",
+        "name": "Content/Warning/onColor",
+        "value": {
+            "a": 1,
+            "b": 0,
+            "g": 8,
+            "r": 72
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "555:1982",
+        "sourceId": "993e46da-0f0a-440d-a027-d79b730590ba",
+        "repositoryId": "2bfa70bc-3124-4745-be75-43ea670936ae"
+    },
+    {
+        "id": "39940196-29bc-49ec-9027-47bf2f6df7eb",
+        "createdAt": "2022-08-30T03:48:45.828Z",
+        "updatedAt": "2022-08-30T03:48:45.828Z",
+        "name": "Content/Warning/Secondary",
+        "value": {
+            "a": 1,
+            "b": 18,
+            "g": 95,
+            "r": 170
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "555:1980",
+        "sourceId": "993e46da-0f0a-440d-a027-d79b730590ba",
+        "repositoryId": "2bfa70bc-3124-4745-be75-43ea670936ae"
+    }
+]
